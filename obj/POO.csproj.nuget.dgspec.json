@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\C#\\POO\\POO.csproj": {}
+    "/home/maiara/Área de Trabalho/Backend C#/Orientação Objeto/POO/POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\C#\\POO\\POO.csproj": {
+    "/home/maiara/Área de Trabalho/Backend C#/Orientação Objeto/POO/POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\C#\\POO\\POO.csproj",
+        "projectUniqueName": "/home/maiara/Área de Trabalho/Backend C#/Orientação Objeto/POO/POO.csproj",
         "projectName": "POO",
-        "projectPath": "C:\\Users\\fic\\Desktop\\C#\\POO\\POO.csproj",
-        "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\C#\\POO\\obj\\",
+        "projectPath": "/home/maiara/Área de Trabalho/Backend C#/Orientação Objeto/POO/POO.csproj",
+        "packagesPath": "/home/maiara/.nuget/packages/",
+        "outputPath": "/home/maiara/Área de Trabalho/Backend C#/Orientação Objeto/POO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/maiara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
         }
       }
     }
